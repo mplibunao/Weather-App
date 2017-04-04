@@ -1,0 +1,69 @@
+body{
+  background-color: #A3BAC3;
+  color:#424B54;
+}
+
+.container{
+  background-color: #F2F3F4;
+  border: 3px solid #A9DD9B;
+  margin-top:25px;
+  padding-bottom:20px;
+  padding-top:20px;
+}
+
+h1{
+  font-size:40px;
+}
+
+.heading-top{
+  margin-top:30px;
+  margin-bottom:-30px;
+  padding-bottom:0px;
+}
+
+.location-row{
+  margin-bottom:-20px;
+}
+
+.temp{
+  display:inline;
+  font-size:50px;
+}
+
+.temp-unit{
+  text-decoration:none;
+  cursor:pointer;
+  color: #A9DD9B
+}
+
+.temp-unit:hover{
+  color:#53ab3b;
+}
+
+.weather-row{
+  padding-top:25px;
+}
+
+.weather-subtext{
+  padding-top:5px;
+}
+
+.divider{
+  border-top: 3px solid #A3BAC3;
+  border-radius: 10px;
+	text-align: center;
+  max-width: 360px;
+}
+
+.credits{
+  padding:0 0 0 0;
+  margin-top:-10px
+}
+
+.credit-links{
+  color:#53ab3b;
+}
+
+.credit-links:hover{
+  color:#377227;
+}
